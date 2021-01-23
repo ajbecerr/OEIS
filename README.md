@@ -2,6 +2,6 @@
 
 This repository contains Jupyter Notebooks which I have written about various OEIS entries.
 
-Each of these files include code cells which contain functions that I have created to compute terms.
+Each of these files include code cells which contain functions that I have created in order to compute terms.
 
-Many of these files also include markdown cells which contain closed formulas, generating functions, or recurrence relations that I have derived.
+Many also include markdown cells which contain closed formulas, generating functions, or recurrence relations that I have derived.
