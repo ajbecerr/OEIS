@@ -1,3 +1,3 @@
 # (-3)
 
-E.g.f derivations for linear recurrences with constant coefficients, signature (-4).
+E.g.f derivations for linear recurrences with constant coefficients, signature (-3).
